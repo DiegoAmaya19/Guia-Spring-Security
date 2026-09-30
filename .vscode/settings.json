@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "demo/src/main/java",
+        "Sec/src/main/java/sec/demo"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
