@@ -10,6 +10,11 @@ public class publicController {
 
     @GetMapping("/data")
     public String getPublicData() {
+        return "Hola data";
+    }
+
+    @GetMapping("/hola")
+    public String getPublicHola() {
         return "Hola Prueba";
     }
 
